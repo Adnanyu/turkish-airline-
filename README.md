@@ -1,3 +1,6 @@
+
+<h1 style='margin-x:auto;'>Description</h1>
+<p>This project is a desktop application built with Java Swing for Turkish Airline bookings. It includes user authentication through sign-in and sign-up, allowing secure access to personal accounts. Users can book one-way or round-trip flights by selecting destinations, dates, and passenger details. Upon booking completion, the system generates a digital ticket with flight details and confirmation. The app features intuitive UI design, form validation, and error handling for a smooth user experience. This solution focuses on simplicity, security, and efficient flight booking in a desktop environment.</p>
 <h1 style='margin-x:auto;'>Home page</h1>
 <img width="1202" alt="Screenshot 2024-11-23 at 6 58 56 PM" src="https://github.com/user-attachments/assets/3133d97f-6ec4-460f-9d1b-3b2e5c777134">
 <h1>List of flights</h1>
